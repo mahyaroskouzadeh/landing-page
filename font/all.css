@@ -1,0 +1,126 @@
+@font-face {
+  font-family: "Poppins-Black";
+  src: url("./pop/Poppins-Black.eot"),
+    url("./pop/Poppins-Black.eot?#") format("embedded-opentype"),
+    url("./pop/Poppins-Black.woff") format("woff"),
+    url("./pop/Poppins-Black.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Poppins-BlackItalic";
+  src: url("./pop/Poppins-BlackItalic.eot"),
+    url("./pop/Poppins-BlackItalic.eot?#") format("embedded-opentype"),
+    url("./pop/Poppins-BlackItalic.woff") format("woff"),
+    url("./pop/Poppins-BlackItalic.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Poppins-Bold";
+  src: url("./pop/Poppins-Bold.eot"),
+    url("./pop/Poppins-Bold.eot?#") format("embedded-opentype"),
+    url("./pop/Poppins-Bold.woff") format("woff"),
+    url("./pop/Poppins-Bold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Poppins-BoldItalic";
+  src: url("./pop/Poppins-BoldItalic.eot"),
+    url("./pop/Poppins-BoldItalic.eot?#") format("embedded-opentype"),
+    url("./pop/Poppins-BoldItalic.woff") format("woff"),
+    url("./pop/Poppins-BoldItalic.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Poppins-ExtraBold";
+  src: url("./pop/Poppins-ExtraBold.eot"),
+    url("./pop/Poppins-ExtraBold.eot?#") format("embedded-opentype"),
+    url("./pop/Poppins-ExtraBold.woff") format("woff"),
+    url("./pop/Poppins-ExtraBold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Poppins-ExtraBoldItalic";
+  src: url("./pop/Poppins-ExtraBoldItalic.eot"),
+    url("./pop/Poppins-ExtraBoldItalic.eot?#") format("embedded-opentype"),
+    url("./pop/Poppins-ExtraBoldItalic.woff") format("woff"),
+    url("./pop/Poppins-ExtraBoldItalic.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Poppins-ExtraLight";
+  src: url("./pop/Poppins-ExtraLight.eot"),
+    url("./pop/Poppins-ExtraLight.eot?#") format("embedded-opentype"),
+    url("./pop/Poppins-ExtraLight.woff") format("woff"),
+    url("./pop/Poppins-ExtraLight.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Poppins-ExtraLightItalic";
+  src: url("./pop/Poppins-ExtraLightItalic.eot"),
+    url("./pop/Poppins-ExtraLightItalic.eot?#") format("embedded-opentype"),
+    url("./pop/Poppins-ExtraLightItalic.woff") format("woff"),
+    url("./pop/Poppins-ExtraLightItalic.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Poppins-Italic";
+  src: url("./pop/Poppins-Italic.eot"),
+    url("./pop/Poppins-Italic.eot?#") format("embedded-opentype"),
+    url("./pop/Poppins-Italic.woff") format("woff"),
+    url("./pop/Poppins-Italic.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Poppins-Light";
+  src: url("./pop/Poppins-Light.eot"),
+    url("./pop/Poppins-Light.eot?#") format("embedded-opentype"),
+    url("./pop/Poppins-Light.woff") format("woff"),
+    url("./pop/Poppins-Light.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Poppins-LightItalic";
+  src: url("./pop/Poppins-LightItalic.eot"),
+    url("./pop/Poppins-LightItalic.eot?#") format("embedded-opentype"),
+    url("./pop/Poppins-LightItalic.woff") format("woff"),
+    url("./pop/Poppins-LightItalic.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Poppins-Medium";
+  src: url("./pop/Poppins-Medium.eot"),
+    url("./pop/Poppins-Medium.eot?#") format("embedded-opentype"),
+    url("./pop/Poppins-Medium.woff") format("woff"),
+    url("./pop/Poppins-Medium.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Poppins-MediumItalic";
+  src: url("./pop/Poppins-MediumItalic.eot"),
+    url("./pop/Poppins-MediumItalic.eot?#") format("embedded-opentype"),
+    url("./pop/Poppins-MediumItalic.woff") format("woff"),
+    url("./pop/Poppins-MediumItalic.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Poppins-Regular";
+  src: url("./pop/Poppins-Regular.eot"),
+    url("./pop/Poppins-Regular.eot?#") format("embedded-opentype"),
+    url("./pop/Poppins-Regular.woff") format("woff"),
+    url("./pop/Poppins-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Poppins-SemiBold";
+  src: url("./pop/Poppins-SemiBold.eot"),
+    url("./pop/Poppins-SemiBold.eot?#") format("embedded-opentype"),
+    url("./pop/Poppins-SemiBold.woff") format("woff"),
+    url("./pop/Poppins-SemiBold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Poppins-SemiBoldItalic";
+  src: url("./pop/Poppins-SemiBoldItalic.eot"),
+    url("./pop/Poppins-SemiBoldItalic.eot?#") format("embedded-opentype"),
+    url("./pop/Poppins-SemiBoldItalic.woff") format("woff"),
+    url("./pop/Poppins-SemiBoldItalic.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Poppins-Thin";
+  src: url("./pop/Poppins-Thin.eot"),
+    url("./pop/Poppins-Thin.eot?#") format("embedded-opentype"),
+    url("./pop/Poppins-Thin.woff") format("woff"),
+    url("./pop/Poppins-Thin.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Poppins-ThinItalic";
+  src: url("./pop/Poppins-ThinItalic.eot"),
+    url("./pop/Poppins-ThinItalic.eot?#") format("embedded-opentype"),
+    url("./pop/Poppins-ThinItalic.woff") format("woff"),
+    url("./pop/Poppins-ThinItalic.ttf") format("truetype");
+}

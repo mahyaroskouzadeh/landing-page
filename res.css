@@ -1,0 +1,168 @@
+@media screen and (max-width: 1440px) {
+  .container {
+    width: 1100px;
+    margin: 0 auto;
+  }
+  header .listlogo-rast {
+    display: none;
+  }
+  header .listlogo-vasat {
+    display: none;
+  }
+  .listlogo-chap {
+    margin-left: 0;
+  }
+  .listlogo {
+    padding: 0;
+  }
+
+  .listlogo .meno-icon {
+    display: block;
+    margin-right: 31px;
+  }
+  .teccover3 {
+    display: none;
+  }
+  .teccover5 {
+    display: block;
+  }
+
+  .list-item {
+    display: block;
+  }
+  .teccover5 .teccover4 .teccover4-sefid {
+    flex-direction: column-reverse;
+  }
+  .teccover4-sefid-rast {
+    text-align: center;
+  }
+  .teccover4-sefid-chap {
+    margin-top: 31px;
+  }
+  .meno-box {
+    grid-template-columns: 1fr;
+  }
+
+  .load {
+    margin-top: 20px;
+  }
+  .ft-item {
+    margin: 0;
+  }
+  .post .item1 {
+    margin-top: 0;
+  }
+
+  .post .wrapper {
+    gap: 15px;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .container {
+    width: 900px;
+    margin: 0 auto;
+  }
+  .tecc {
+    flex-direction: column;
+  }
+  .tec2 {
+    margin-top: 64px;
+  }
+  .slide .box-txt {
+    padding: 0;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .container {
+    width: 720px;
+
+    margin: 0 auto;
+  }
+}
+@media screen and (max-width: 768px) {
+  .container {
+    width: 91%;
+    margin: 0 auto;
+  }
+  .post .wrapper {
+    flex-direction: column-reverse;
+    flex: 0;
+  }
+  .footer-p {
+    flex-direction: column;
+    gap: 0;
+    align-items: center;
+  }
+  .footer-p ul {
+    margin-left: 0;
+    margin-top: 20px;
+  }
+  footer .box {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  .slider-box {
+    flex-direction: column-reverse;
+    align-items: center;
+  }
+  .slider-box img {
+    width: 50%;
+    margin-bottom: 10px;
+  }
+  .ft-item1 {
+    display: block;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+  }
+  .ft-item h1 {
+    margin-top: 25px;
+  }
+  .teccover {
+    display: none;
+  }
+  .title1 {
+    text-align: center;
+    justify-content: center;
+    margin-top: 40px;
+  }
+  .title1 .titlereadmore {
+    display: none;
+  }
+  .teccover5 .teccover4 {
+    margin-top: 45px;
+  }
+
+  .teccover5 .teccover4 .teccover4-sefid {
+    background-color: rgba(187, 187, 187, 0);
+    padding: 0;
+  }
+  .meno-box {
+    margin-top: 0;
+  }
+  .post {
+    padding: 30px 0;
+  }
+}
+@media screen and (max-width: 580px) {
+}
+@media screen and (max-width: 375px) {
+}
+
+/* @media screen and (max-width: 900px) {
+  header .listlogo-rast {
+    display: none;
+  }
+  header .listlogo-vasat {
+    display: none;
+  }
+  header .listlogo-chap {
+  }
+  header .listlogo {
+  }
+  .listlogo .meno-icon {
+    display: block;
+  }
+} */
